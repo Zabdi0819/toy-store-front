@@ -30,7 +30,7 @@ This is the **frontend** of the toy store inventory system, developed using Vue 
 
 ---
 
-## Installation
+## How to run
 ```bash
 # Clone repository
 git clone https://github.com/Zabdi0819/toy-store-front.git
