@@ -1,29 +1,55 @@
-# toy-store-front
+# 🖥️ Frontend - Product Management App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the **frontend** of the toy store inventory system, developed using Vue 3 and Bootstrap 5.
 
-## Recommended IDE Setup
+**It consumes the API built with .NET 8 (C#) to display, add, edit, and delete products.**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Customize configuration
+## 🚀 Features
+- 📋 **Product listing** in a responsive table.
+- ➕ **Product creation** with form validations.
+- ✏️ **Product editing** for existing items.
+- ❌ **Product deletion**.
+- 🎨 **Simple and user-friendly** interface using Bootstrap.
+- 📱 **Responsive design** adaptable to mobile devices.
+- ✅ **Form validation**.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠️ Technologies Used
+- **Vue 3**
+- **Bootstrap 5**
+- **Axios** for HTTP requests
+- **SCSS personalizado** for additional styling
 
-```sh
-yarn
-```
+---
 
-### Compile and Hot-Reload for Development
+## Prerequisites
+- Node.js 20.19.0 +
 
-```sh
+---
+
+## Installation
+```bash
+# Clone repository
+git clone https://github.com/Zabdi0819/toy-store-front.git
+cd toy-store-front
+
+# Install dependencies
+yarn install
+
+# Run in development mode
 yarn dev
 ```
+---
 
-### Compile and Minify for Production
+## 🔗 Related backend
 
-```sh
-yarn build
-```
+The backend of this project is located at:
+https://github.com/Zabdi0819/ToyStore_API.git 
+
+---
+### Developed by Zabdi Ramírez
+
+
