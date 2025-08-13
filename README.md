@@ -42,6 +42,8 @@ yarn install
 # Run in development mode
 yarn dev
 ```
+The APP will be available at: http://localhost:5173
+
 ---
 
 ## 🔗 Related backend
